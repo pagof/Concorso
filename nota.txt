@@ -1,0 +1,10 @@
+copiare il testo dal pdf
+
+salvarlo come txt
+
+sostituire ^pPagina con Pagina
+
+aggiungere una ultima riga einserire
+'9999. FINE' rem (SENZA APICI)
+
+lanciare il programma
